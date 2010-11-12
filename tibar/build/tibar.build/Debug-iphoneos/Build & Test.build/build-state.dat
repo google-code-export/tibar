@@ -1,0 +1,18 @@
+TBuild & Test
+v7
+r0
+t310920812.945451
+cCheck dependencies
+
+N/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Debug-iphoneos/Build & Test.build/Script-24416B8011C4CA220047AFDD.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310920812#310920812#0(0"0(0#1#0"8630083360#0"0#
+
+CPhaseScriptExecution "Run Script" "/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Debug-iphoneos/Build & Test.build/Script-24416B8011C4CA220047AFDD.sh"
+r0
+
