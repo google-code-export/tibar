@@ -1,0 +1,968 @@
+Ttibar
+v7
+r0
+t311253610.046070
+cCheck dependencies
+cProcessPCH /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch.gch ComGoogleCodeTibar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C5A5EAD00000000000D2090
+t1280990893
+s860304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4C8C0000000000000AB3
+t1280986252
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4CD800000000000004FE
+t1280986328
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004C5B91F10000000000065D00
+t1281069553
+s417024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004C5A4E370000000000018000
+t1280986679
+s98304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/AvailabilityMacros.h
+c000000004C57A0390000000000006724
+t1280811065
+s26404
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/assert.h
+c000000004C5790910000000000000DCB
+t1280807057
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/pthread.h
+c000000004C57909200000000000038F0
+t1280807058
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdio.h
+c000000004C57909200000000000040AC
+t1280807058
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdlib.h
+c000000004C5790920000000000002DF5
+t1280807058
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A1198340000000000000644
+t1242667060
+s1604
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib
+c000000004AD4F6DB00000000000049DC
+t1255470811
+s18908
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/Bridge.h
+c000000004C9650D8000000000000023B
+t1284919512
+s571
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/KrollBridge.h
+c000000004C3F810600000000000005AB
+t1279230214
+s1451
+i<Foundation/Foundation.h>
+i"Bridge.h"
+i"Ti.h"
+i"TiEvaluator.h"
+i"TiProxy.h"
+i"KrollContext.h"
+i"KrollObject.h"
+i"TiModule.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/KrollCallback.h
+c000000004C975D040000000000000452
+t1284988164
+s1106
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/KrollContext.h
+c000000004C3CC63C0000000000000D82
+t1279051324
+s3458
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+i"TiContextRefPrivate.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/KrollObject.h
+c000000004C487ED80000000000000714
+t1279819480
+s1812
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/LayoutConstraint.h
+c000000004C03E70E000000000000096B
+t1275324174
+s2411
+i<UIKit/UIKit.h>
+i"TiDimension.h"
+i"TiUtils.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/ListenerEntry.h
+c000000004C4D61AE0000000000000269
+t1280139694
+s617
+i"TiModule.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiAnimation.h
+c000000004C2877D60000000000000D5B
+t1277720534
+s3419
+i"TiProxy.h"
+i"TiPoint.h"
+i"TiColor.h"
+i"ListenerEntry.h"
+i"LayoutConstraint.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiApp.h
+c000000004C975D040000000000000746
+t1284988164
+s1862
+i<UIKit/UIKit.h>
+i"TiHost.h"
+i"KrollBridge.h"
+i"XHRBridge.h"
+i"TiRootViewController.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiBase.h
+c000000004C975D060000000000003073
+t1284988166
+s12403
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"defines.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiColor.h
+c000000004BA69ADE00000000000002E6
+t1269209822
+s742
+i<UIKit/UIKit.h>
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/Ti.h
+c000000004BA69ADE000000000000071C
+t1269209822
+s1820
+i<TiCore/TiBase.h>
+i<TiCore/TiContextRef.h>
+i<TiCore/TiStringRef.h>
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiBase.h
+c000000004BA69ADE0000000000001A03
+t1269209822
+s6659
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiContextRef.h
+c000000004BA69ADE00000000000014D8
+t1269209822
+s5336
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004BA69ADE0000000000000860
+t1269209822
+s2144
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiCore.h
+c000000004BA69ADE000000000000069B
+t1269209822
+s1691
+i<TiCore/Ti.h>
+i<TiCore/TiStringRefCF.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiObjectRef.h
+c000000004BA69ADE000000000000945D
+t1269209822
+s37981
+i<TiCore/TiBase.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiStringRef.h
+c000000004BA69ADE000000000000168A
+t1269209822
+s5770
+i<TiCore/TiValueRef.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiStringRefCF.h
+c000000004BA69ADE0000000000000A3B
+t1269209822
+s2619
+i"TiBase.h"
+i<CoreFoundation/CoreFoundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/TiValueRef.h
+c000000004BA69ADE0000000000002AE2
+t1269209822
+s10978
+i<TiCore/TiBase.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore/WebKitAvailability.h
+c000000004BA69ADE0000000000006BD6
+t1269209822
+s27606
+i<AvailabilityMacros.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiDimension.h
+c000000004C84D88E0000000000000E6A
+t1283774606
+s3690
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiEvaluator.h
+c000000004C9650D80000000000000321
+t1284919512
+s801
+i<Foundation/Foundation.h>
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiFile.h
+c000000004C142422000000000000035D
+t1276388386
+s861
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiGradient.h
+c000000004C975D060000000000000511
+t1284988166
+s1297
+i"TiProxy.h"
+i"TiDimension.h"
+i"TiPoint.h"
+i<CoreGraphics/CoreGraphics.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiHost.h
+c000000004C9650D80000000000000456
+t1284919512
+s1110
+i"TiProxy.h"
+i"Bridge.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiModule.h
+c000000004C3AD5A200000000000003EE
+t1278924194
+s1006
+i"TiUtils.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiPoint.h
+c000000004BD5B46400000000000002D3
+t1272296548
+s723
+i"TiProxy.h"
+i"TiDimension.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiProxy.h
+c000000004C975D0600000000000011B6
+t1284988166
+s4534
+i"TiBase.h"
+i"TiEvaluator.h"
+i"KrollCallback.h"
+i"KrollObject.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiRootController.h
+c000000004C975D0600000000000002F0
+t1284988166
+s752
+i<UIKit/UIKit.h>
+i"TiWindowProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiRootViewController.h
+c000000004C975D0600000000000005F8
+t1284988166
+s1528
+i"TiRootController.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiTab.h
+c000000004BB9C76E0000000000000217
+t1270466414
+s535
+i"TiTabGroup.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiTabGroup.h
+c000000004BB9C71C0000000000000139
+t1270466332
+s313
+i<UIKit/UIKit.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiUIView.h
+c000000004C975D0600000000000010D5
+t1284988166
+s4309
+i"TiProxy.h"
+i"TiAnimation.h"
+i"TiGradient.h"
+i"LayoutConstraint.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiUIWindow.h
+c000000004C975D060000000000000130
+t1284988166
+s304
+i"TiUIView.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiUtils.h
+c000000004C346F360000000000001508
+t1278504758
+s5384
+i"TiColor.h"
+i"TiDimension.h"
+i"WebFont.h"
+i"TiFile.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiViewProxy.h
+c000000004C975D060000000000000F5E
+t1284988166
+s3934
+i"TiProxy.h"
+i"TiUIView.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiWindowProxy.h
+c000000004C975D0600000000000008D8
+t1284988166
+s2264
+i"TiViewProxy.h"
+i"TiAnimation.h"
+i"TiTab.h"
+i"TiUIWindow.h"
+i"TiUIView.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/WebFont.h
+c000000004BCF803E00000000000003C2
+t1271889982
+s962
+i<UIKit/UIKit.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/XHRBridge.h
+c000000004BDDE73C00000000000001DA
+t1272833852
+s474
+i<Foundation/Foundation.h>
+i"Bridge.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/defines.h
+c000000004C1F7EB0000000000000084D
+t1277132464
+s2125
+
+N/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.h
+c000000004CDD204100000000000001F8
+t1289560129
+s504
+i"TiModule.h"
+i"KrollCallback.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m
+c000000004CDD2041000000000000242E
+t1289560129
+s9262
+i"ComGoogleCodeTibarModule.h"
+i"TiBase.h"
+i"TiHost.h"
+i"TiUtils.h"
+i"TiApp.h"
+i"TiModule.h"
+i"KrollCallback.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.h
+c000000004CDD204100000000000000A6
+t1289560129
+s166
+
+N/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m
+c000000004CDD20410000000000000114
+t1289560129
+s276
+i"ComGoogleCodeTibarModuleAssets.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ComGoogleCodeTibar_Prefix.pch
+c000000004CDD20410000000000000053
+t1289560129
+s83
+i<Foundation/Foundation.h>
+i"ZBarSDK.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+c000000004CDD20410000000000000D22
+t1289560129
+s3362
+i<CoreGraphics/CoreGraphics.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+c000000004CDD20410000000000000905
+t1289560129
+s2309
+i<UIKit/UIKit.h>
+i"zbar.h"
+i"ZBarSymbol.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+c000000004CDD204100000000000006AB
+t1289560129
+s1707
+i<Foundation/Foundation.h>
+i"zbar.h"
+i"ZBarImage.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+c000000004CDD2041000000000000145B
+t1289560129
+s5211
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+c000000004CDD20410000000000000F59
+t1289560129
+s3929
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+c000000004CDD20410000000000000FA8
+t1289560129
+s4008
+i<UIKit/UIKit.h>
+i"ZBarReaderController.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+c000000004CDD20410000000000000516
+t1289560129
+s1302
+i"zbar.h"
+i"ZBarSymbol.h"
+i"ZBarImage.h"
+i"ZBarImageScanner.h"
+i"ZBarReaderView.h"
+i"ZBarReaderViewController.h"
+i"ZBarReaderController.h"
+i"ZBarCaptureReader.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+c000000004CDD204100000000000008E7
+t1289560129
+s2279
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i"zbar.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar.h
+c000000004CDD2041000000000000C73F
+t1289560129
+s51007
+i"zbar/Exception.h"
+i"zbar/Decoder.h"
+i"zbar/Scanner.h"
+i"zbar/Symbol.h"
+i"zbar/Image.h"
+i"zbar/ImageScanner.h"
+i"zbar/Video.h"
+i"zbar/Window.h"
+i"zbar/Processor.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+c000000004CDD20410000000000001614
+t1289560129
+s5652
+i<string>
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+c000000004CDD20410000000000001210
+t1289560129
+s4624
+i<exception>
+i<new>
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+c000000004CDD204100000000000021B5
+t1289560129
+s8629
+i<assert.h>
+i<iterator>
+i"Symbol.h"
+i"Exception.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+c000000004CDD20410000000000000EAB
+t1289560129
+s3755
+i"Image.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+c000000004CDD20410000000000001B3B
+t1289560129
+s6971
+i"Exception.h"
+i"Image.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+c000000004CDD20410000000000001065
+t1289560129
+s4197
+i<stdio.h>
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+c000000004CDD20410000000000003086
+t1289560129
+s12422
+i<stdlib.h>
+i<string>
+i<ostream>
+i<assert.h>
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+c000000004CDD2041000000000000115D
+t1289560129
+s4445
+i"Image.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+c000000004CDD20410000000000000E9D
+t1289560129
+s3741
+i"Image.h"
+
+N/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK/libzbar.a
+c000000004CDD20410000000000281F4C
+t1289560129
+s2629452
+
+N/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a
+t1289560810
+s990496
+
+N/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibar.LinkFileList
+c000000004CDD22E8000000000000011C
+t1289560808
+s284
+
+N/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o
+t1289560809
+s84796
+
+N/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o
+t1289560809
+s6240
+
+N/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.h
+c000000004CD80B7800000000000001F8
+t1289227128
+s504
+i"TiModule.h"
+i"KrollCallback.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m
+c000000004CD80C01000000000000242E
+t1289227265
+s9262
+i"ComGoogleCodeTibarModule.h"
+i"TiBase.h"
+i"TiHost.h"
+i"TiUtils.h"
+i"TiApp.h"
+i"TiModule.h"
+i"KrollCallback.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.h
+c000000004CD803E700000000000000A6
+t1289225191
+s166
+
+N/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m
+c000000004CD803E70000000000000114
+t1289225191
+s276
+i"ComGoogleCodeTibarModuleAssets.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ComGoogleCodeTibar_Prefix.pch
+c000000004CD807BD0000000000000053
+t1289226173
+s83
+i<Foundation/Foundation.h>
+i"ZBarSDK.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+c000000004C9799E40000000000000D22
+t1285003748
+s3362
+i<CoreGraphics/CoreGraphics.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+c000000004C9799E40000000000000905
+t1285003748
+s2309
+i<UIKit/UIKit.h>
+i"zbar.h"
+i"ZBarSymbol.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+c000000004C9799E400000000000006AB
+t1285003748
+s1707
+i<Foundation/Foundation.h>
+i"zbar.h"
+i"ZBarImage.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+c000000004C9799E4000000000000145B
+t1285003748
+s5211
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+c000000004C9799E40000000000000F59
+t1285003748
+s3929
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+c000000004C9799E40000000000000FA8
+t1285003748
+s4008
+i<UIKit/UIKit.h>
+i"ZBarReaderController.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+c000000004C9799E40000000000000516
+t1285003748
+s1302
+i"zbar.h"
+i"ZBarSymbol.h"
+i"ZBarImage.h"
+i"ZBarImageScanner.h"
+i"ZBarReaderView.h"
+i"ZBarReaderViewController.h"
+i"ZBarReaderController.h"
+i"ZBarCaptureReader.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+c000000004C9799E400000000000008E7
+t1285003748
+s2279
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i"zbar.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar.h
+c000000004C9799E4000000000000C73F
+t1285003748
+s51007
+i"zbar/Exception.h"
+i"zbar/Decoder.h"
+i"zbar/Scanner.h"
+i"zbar/Symbol.h"
+i"zbar/Image.h"
+i"zbar/ImageScanner.h"
+i"zbar/Video.h"
+i"zbar/Window.h"
+i"zbar/Processor.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+c000000004C9799E40000000000001614
+t1285003748
+s5652
+i<string>
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+c000000004C9799E40000000000001210
+t1285003748
+s4624
+i<exception>
+i<new>
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+c000000004C9799E400000000000021B5
+t1285003748
+s8629
+i<assert.h>
+i<iterator>
+i"Symbol.h"
+i"Exception.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+c000000004C9799E40000000000000EAB
+t1285003748
+s3755
+i"Image.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+c000000004C9799E40000000000001B3B
+t1285003748
+s6971
+i"Exception.h"
+i"Image.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+c000000004C9799E40000000000001065
+t1285003748
+s4197
+i<stdio.h>
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+c000000004C9799E40000000000003086
+t1285003748
+s12422
+i<stdlib.h>
+i<string>
+i<ostream>
+i<assert.h>
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+c000000004C9799E4000000000000115D
+t1285003748
+s4445
+i"Image.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+c000000004C9799E40000000000000E9D
+t1285003748
+s3741
+i"Image.h"
+
+N/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK/libzbar.a
+c000000004C9799E40000000000281F4C
+t1285003748
+s2629452
+
+N/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a
+t1289229636
+s990456
+
+N/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibar.LinkFileList
+c000000004CD815430000000000000114
+t1289229635
+s276
+
+N/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o
+t1289229636
+s84764
+
+N/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o
+t1289229636
+s6232
+
+N/var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch.gch
+t1289229635
+s15359280
+
+N/var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch.gch
+t1289560809
+s15355184
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311253608#311253608#0(0"0(0#1#0"8028844404304588800#0"0#
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311253609.613986
+e311253609.967710
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o
+x/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scan:]':
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: 'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: (Messages without a matching method signature
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: will be assumed to return 'id' and accept
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: '...' as arguments.)
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scanButtonTapped:]':
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:154: warning: format not a string literal and no format arguments
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:162: warning: format not a string literal and no format arguments
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:178: warning: format not a string literal and no format arguments
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:207: warning: format not a string literal and no format arguments
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:219: warning: unused variable 'custom'
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:235: warning: format not a string literal and no format arguments
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule imagePickerController:didFinishPickingMediaWithInfo:]':
+o/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:296: warning: local declaration of 'reader' hides instance variable
+lSLF07#2@80"Compile /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311253609#311253609#0(1900"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scan:]':/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: 'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: (Messages without a matching method signature/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: will be assumed to return 'id' and accept/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: '...' as arguments.)/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scanButtonTapped:]':/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:154: warning: format not a string literal and no format arguments/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:162: warning: format not a string literal and no format arguments/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:178: warning: format not a string literal and no format arguments/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:207: warning: format not a string literal and no format arguments/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:219: warning: unused variable 'custom'/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:235: warning: format not a string literal and no format arguments/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule imagePickerController:didFinishPickingMediaWithInfo:]':/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m:296: warning: local declaration of 'reader' hides instance variable9(22@66"'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'311253609#123#154#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#106#0#106#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311253609#277#133#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#106#0#106#0#0"0(22@51"Format not a string literal and no format arguments311253609#782#139#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#154#0#154#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments311253609#921#139#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#162#0#162#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments311253609#1060#139#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#178#0#178#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments311253609#1199#139#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#207#0#207#0#51"format not a string literal and no format arguments0(22@24"Unused variable 'custom'311253609#1338#112#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#219#0#219#0#19"unused variable '*'0(22@51"Format not a string literal and no format arguments311253609#1450#139#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#235#0#235#0#51"format not a string literal and no format arguments0(22@53"Local declaration of 'reader' hides instance variable311253609#1759#141#0(6@72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m311252929#296#0#296#0#0"0(0#0#72"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m4643516096#2229"    cd /Users/iptv/dev/workspace/TiBar/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator -I/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -include /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch -c /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModule.m -o /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o0#
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310922436.066121
+e310922436.411947
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o
+x/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scan:]':
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: 'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: (Messages without a matching method signature
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: will be assumed to return 'id' and accept
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: '...' as arguments.)
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scanButtonTapped:]':
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:154: warning: format not a string literal and no format arguments
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:162: warning: format not a string literal and no format arguments
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:178: warning: format not a string literal and no format arguments
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:207: warning: format not a string literal and no format arguments
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:219: warning: unused variable 'custom'
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:235: warning: format not a string literal and no format arguments
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule imagePickerController:didFinishPickingMediaWithInfo:]':
+o/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:296: warning: local declaration of 'reader' hides instance variable
+lSLF07#2@76"Compile /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310922436#310922436#0(1844"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scan:]':/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: 'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: (Messages without a matching method signature/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: will be assumed to return 'id' and accept/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:106: warning: '...' as arguments.)/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule scanButtonTapped:]':/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:154: warning: format not a string literal and no format arguments/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:162: warning: format not a string literal and no format arguments/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:178: warning: format not a string literal and no format arguments/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:207: warning: format not a string literal and no format arguments/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:219: warning: unused variable 'custom'/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:235: warning: format not a string literal and no format arguments/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m: In function '-[ComGoogleCodeTibarModule imagePickerController:didFinishPickingMediaWithInfo:]':/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m:296: warning: local declaration of 'reader' hides instance variable9(22@66"'ComGoogleCodeTibarModule' may not respond to '-scanButtonTapped:'310922436#119#150#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#106#0#106#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310922436#269#129#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#106#0#106#0#0"0(22@51"Format not a string literal and no format arguments310922436#758#135#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#154#0#154#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310922436#893#135#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#162#0#162#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310922436#1028#135#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#178#0#178#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments310922436#1163#135#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#207#0#207#0#51"format not a string literal and no format arguments0(22@24"Unused variable 'custom'310922436#1298#108#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#219#0#219#0#19"unused variable '*'0(22@51"Format not a string literal and no format arguments310922436#1406#135#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#235#0#235#0#51"format not a string literal and no format arguments0(22@53"Local declaration of 'reader' hides instance variable310922436#1707#137#0(6@68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m310920065#296#0#296#0#0"0(0#0#68"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m4643927200#2185"    cd /Users/iptv/dev3.2010.11.08/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator -I/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -include /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch -c /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModule.m -o /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModule.o0#
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311253609.615006
+e311253609.678507
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o
+x/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m311253609#311253609#0(0"0(0#0#78"/Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m4643695968#2241"    cd /Users/iptv/dev/workspace/TiBar/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator -I/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -include /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch -c /Users/iptv/dev/workspace/TiBar/tibar/Classes/ComGoogleCodeTibarModuleAssets.m -o /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o0#
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310922436.067070
+e310922436.124984
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o
+x/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m310922436#310922436#0(0"0(0#0#74"/Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m4646450592#2197"    cd /Users/iptv/dev3.2010.11.08/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator -I/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -include /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch -c /Users/iptv/dev3.2010.11.08/tibar/Classes/ComGoogleCodeTibarModuleAssets.m -o /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibarModuleAssets.o0#
+
+CLibtool /Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a normal i386
+s311253609.968028
+e311253610.045914
+r1
+xLibtool
+x/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+lSLF07#2@73"Libtool build/Release-iphonesimulator/libComGoogleCodeTibar.a normal i386311253609#311253610#0(720"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library0(0#0#0"29555366482477168#1108"    cd /Users/iptv/dev/workspace/TiBar/tibar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator -L/Volumes/ZBarSDK/ZBarSDK -L/Users/iptv/dev/workspace/TiBar/tibar/ZBarSDK -filelist /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibar.LinkFileList -framework Foundation -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework QuartzCore /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib -lzbar -o /Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a0#
+
+CLibtool /Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a normal i386
+s310922436.412207
+e310922436.439108
+r1
+xLibtool
+x/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+lSLF07#2@73"Libtool build/Release-iphonesimulator/libComGoogleCodeTibar.a normal i386310922436#310922436#0(720"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library0(0#0#0"27303536605069420#1088"    cd /Users/iptv/dev3.2010.11.08/tibar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator -L/Volumes/ZBarSDK/ZBarSDK -L/Users/iptv/dev3.2010.11.08/tibar/ZBarSDK -filelist /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/ComGoogleCodeTibar.LinkFileList -framework Foundation -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework QuartzCore /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libiconv.dylib -lzbar -o /Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/libComGoogleCodeTibar.a0#
+
+CProcessPCH /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch.gch ComGoogleCodeTibar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310922435.351181
+e310922436.065868
+r1
+xProcessPCH
+x/var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch.gch
+xComGoogleCodeTibar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile ComGoogleCodeTibar_Prefix.pch310922435#310922436#0(0"0(0#0#63"/Users/iptv/dev3.2010.11.08/tibar/ComGoogleCodeTibar_Prefix.pch4856406964695943168#2047"    cd /Users/iptv/dev3.2010.11.08/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator -I/Users/iptv/dev3.2010.11.08/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev3.2010.11.08/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -c /Users/iptv/dev3.2010.11.08/tibar/ComGoogleCodeTibar_Prefix.pch -o /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-csxrejccquwepfaekjngxlbgcwfy/ComGoogleCodeTibar_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch.gch ComGoogleCodeTibar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311253608.800678
+e311253609.613698
+r1
+xProcessPCH
+x/var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch.gch
+xComGoogleCodeTibar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile ComGoogleCodeTibar_Prefix.pch311253608#311253609#0(0"0(0#0#67"/Users/iptv/dev/workspace/TiBar/tibar/ComGoogleCodeTibar_Prefix.pch4856406964695943168#2087"    cd /Users/iptv/dev/workspace/TiBar/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/dev/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-generated-files.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-own-target-headers.hmap -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-all-target-headers.hmap -iquote /Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/ComGoogleCodeTibar-project-headers.hmap -F/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator -I/Users/iptv/dev/workspace/TiBar/tibar/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.4.1.1/iphone/include/TiCore" -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/iptv/dev/workspace/TiBar/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -c /Users/iptv/dev/workspace/TiBar/tibar/ComGoogleCodeTibar_Prefix.pch -o /var/folders/Jf/JfCOT3Z+GfGMkbB6yELqLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComGoogleCodeTibar_Prefix-gaaugofiiukblhfxutfwhyfrbqpq/ComGoogleCodeTibar_Prefix.pch.gch0#
+
