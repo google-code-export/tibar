@@ -12,9 +12,8 @@ var tab = Titanium.UI.createTab({
 });
 
 // TiBar module
-var tibar2 = require('com.google.code.tibar');
-Ti.API.info("module is => "+tibar2);
-var TiBar = tibar2;
+var TiBar = require('tibar');
+Ti.API.info("module is => "+TiBar);
 
 // Configuration
 // VC - ZBarReaderViewController
