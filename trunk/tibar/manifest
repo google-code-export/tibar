@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.4.1
+version: 0.4.2
 description: ZBar Titanium Module
 author: Martin Lasak and Lukasz Radziwonowicz
 license: GNU LGPLv3
